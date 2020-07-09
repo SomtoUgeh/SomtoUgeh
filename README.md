@@ -6,7 +6,9 @@ I'm Somto Medua-Ugeh, I'm a software engineer 👨‍💻 living in Lagos, Niger
 
 I make stuff for the web & mobile with <b>JavaScript 🤪</b> 
 
-My passion is creating, and I find happiness in being a better me today than I was yesterday 🙏🏾 I build, operate & sometimes rescue full-stack web applications 💻
+My passion is creating, and I find happiness in being a better me today than I was yesterday 🙏🏾 
+
+I build, operate & sometimes rescue full-stack web applications 💻
 
 - 🌱 I’m currently learning AWS and all of its madness! 💀
 - 💬 Ask me about: tech, memes, weird shows.
