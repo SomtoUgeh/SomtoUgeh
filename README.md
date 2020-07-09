@@ -3,7 +3,7 @@
 ## Hi there 👋🏾, 
 I'm Somto Medua-Ugeh, I'm a software engineer 👨‍💻 living in Lagos, Nigeria.  
 
-I make stuff for the web & mobile with <b>JavaScript 🤪</b> 
+I make stuff for the web & mobile with <b>JavaScript 🤪</b> and <b>Typescript 🥵</b>
 
 My passion is creating, and I find happiness in being a better me today than I was yesterday 🙏🏾 
 
