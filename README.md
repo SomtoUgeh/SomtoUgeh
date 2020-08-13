@@ -9,7 +9,7 @@ My passion is creating, and I find happiness in being a better me today than I w
 
 I build, operate & sometimes rescue full-stack web applications 💻
 
-- 🌱 I’m currently learning AWS and all of its madness! 💀
-- 💬 Ask me about: tech, memes, weird shows.
-- 😄 Pronouns: he/him
--  ⚡ Languages: JS, TS, Python3
+- 🌱  I’m currently learning AWS and all of its madness! 💀
+- 💬  Ask me about: tech, memes, weird shows.
+- 😄  Pronouns: he/him
+-  ⚡  Languages: JS, TS, Python3
