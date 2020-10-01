@@ -3,13 +3,12 @@
 ## Hi there 👋🏾 
 I'm Somto Medua-Ugeh, I'm a software engineer 👨‍💻 living in Lagos, Nigeria 🇳🇬
 
-I make stuff for the web & mobile with <b>JavaScript 🤪</b> and <b>Typescript 🥵</b>
+I make stuff for the web & mobile with <b>JavaScript</b> and <b>Typescript</b>
 
 My passion is creating, and I find happiness in being a better me today than I was yesterday 🙏🏾 
 
 I build, operate & sometimes rescue full-stack web applications 💻
 
-- 🌱  I’m currently learning AWS and all of its madness! 💀
+- 🌱  I’m currently learning AWS, Serverless and Python! 💀
 - 💬  Ask me about: tech, memes, weird shows.
 - 😄  Pronouns: he/him
--  ⚡  Languages: JS, TS, Python3
