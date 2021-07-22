@@ -12,6 +12,3 @@ I build, operate & sometimes rescue full-stack web applications 💻
 - 🌱  I’m currently doing my masters at the University of Glasgow, UK. I plan to double down on AWS, Java and Python!
 - 💬  Ask me about: tech, memes, weird shows.
 - 😄  Pronouns: he/him
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somtougeh)](https://github.com/anuraghazra/github-readme-stats)
