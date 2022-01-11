@@ -7,8 +7,6 @@ I make stuff for the web & mobile with <b>JavaScript</b> and <b>Typescript</b>
 
 My passion is creating, and I find happiness in being a better me today than I was yesterday 🙏🏾 
 
-I build, operate & sometimes rescue web applications 💻
-
-- 🌱  I’m currently doing my masters at the University of Glasgow, UK. I plan to double down on AWS, Java and Python!
+- I build, operate & sometimes rescue web applications 💻
 - 💬  Ask me about: tech, memes, weird shows.
 - 😄  Pronouns: he/him
